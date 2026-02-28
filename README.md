@@ -20,4 +20,7 @@ I am a passionate IT student at Xavier University, driven by a curiosity for tec
 ## 🏆 Achievements
 - 🌟 Completed Git & GitHub Setup 2024
 
+## 🏆 Fun Fact
+- I want to race the Isle of Man TT one day
+
 Thanks for stopping by!
